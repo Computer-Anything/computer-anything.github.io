@@ -40,7 +40,7 @@ $config['email'] = true;
  * );
  */
 $config['recipients'] = array(
-    'info@tullacontractingcorp.com'
+    'cpt.anything@gmail.com'
  );
 
 /**
